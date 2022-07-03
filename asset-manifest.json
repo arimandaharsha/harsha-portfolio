@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/harsha-portfolio/static/css/main.5a2dad46.css",
+    "main.js": "/harsha-portfolio/static/js/main.afc52c74.js",
+    "index.html": "/harsha-portfolio/index.html",
+    "main.5a2dad46.css.map": "/harsha-portfolio/static/css/main.5a2dad46.css.map",
+    "main.afc52c74.js.map": "/harsha-portfolio/static/js/main.afc52c74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a2dad46.css",
+    "static/js/main.afc52c74.js"
+  ]
+}
