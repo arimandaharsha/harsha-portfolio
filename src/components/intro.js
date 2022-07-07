@@ -8,7 +8,7 @@ function Intro(){
                 <p>Hi There 👋. I am</p>
                 <h1 className="grad-text" style={{fontSize: "60px", fontWeight: "800"}}>Harsha <br />Arimanda</h1>
                 <p>FULL STACK DEVELOPER 😍</p>
-                <button className="dnld-btn">Download Resume</button>
+                <a className="dnld-link" href='/Arimanda Harsha Resume.pdf' download><button className="dnld-btn">Download Resume</button></a>
             </div>
             <div className="intro-card">
                 <pre>1. class Harsha:</pre>
